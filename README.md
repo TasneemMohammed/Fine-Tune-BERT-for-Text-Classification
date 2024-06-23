@@ -2,4 +2,4 @@
 Fine Tune BERT for Text Classification with TensorFlow
 
 ## Certificate 
-Coursera practical course [certificate](https://www.coursera.org/account/accomplishments/certificate/FBFCYKTA3WY2)
+Coursera guided project [certificate](https://www.coursera.org/account/accomplishments/certificate/FBFCYKTA3WY2)
