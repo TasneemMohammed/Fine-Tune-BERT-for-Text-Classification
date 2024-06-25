@@ -23,4 +23,4 @@ Fine Tune BERT for Text Classification with TensorFlow
 10: Evaluate the BERT Text Classification Model
  
 ## Acknowledge
-It is a [Fine Tune BERT for Text Classification with TensorFlow](https://www.coursera.org/projects/fine-tune-bert-tensorflow) Coursera-guided project [certificate](https://www.coursera.org/account/accomplishments/certificate/FBFCYKTA3WY2)
+It is a [Fine Tune BERT for Text Classification with TensorFlow](https://www.coursera.org/projects/fine-tune-bert-tensorflow) Coursera-guided project | [certificate](https://www.coursera.org/account/accomplishments/certificate/FBFCYKTA3WY2)
